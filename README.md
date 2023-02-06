@@ -1,1 +1,2 @@
-# speech-recognition-pycharm
+A python Application that converts Speech to text
+
